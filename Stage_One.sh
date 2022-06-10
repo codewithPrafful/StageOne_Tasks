@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/usr/bash
 #stageone_tasks 
 
 wget https://raw.githubusercontent.com/HackBio-Internship/wale-home-tasks/main/DNA.fa
